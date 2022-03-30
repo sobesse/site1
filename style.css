@@ -1,0 +1,92 @@
+
+.Onglets{
+	text-align: right;
+	list-style: none;
+	font-weight: bold;
+
+}
+.Onglets li{
+	display: inline;
+	width: 500px;
+	margin: 1em;
+}
+
+h1{
+	color: navy;
+	line-height: 15px;
+}
+h1.Bonjour{
+	color: black;
+	background-color: none;
+}
+h2	{
+	color: blue;
+}
+h2.Fonction{
+	color: black;
+	line-height: 25%;
+	font-weight: light;
+}
+
+img.solene{
+	border-radius: 5px;
+	box-shadow: 10px 10px 20px black;
+}
+.solene{
+	float: left;
+	margin: 0 30px 15px 0;
+}
+
+body{
+	background-color: Ivory;
+	font-family: Nunito, sans-serif;
+	font-size: 15px;
+	list-style: 1;
+	letter-spacing: 0.3px;
+	font-weight: 100;
+	margin: auto;
+}
+p{
+	text-align: justify
+}
+div.top{
+	border: 3px solid MistyRose;
+	background-image: url(vague.jpg);
+}
+
+div{
+	background-color: White;
+	padding: 16px;
+	margin: 16px 0;
+}
+
+
+.projet-sneakers{
+	background-color: blue;
+	padding: 16px;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+.SM{
+	box-shadow: 5px 5px 18px black;
+}
+
+.reseaux{
+	list-style: none;
+}
+
+.reseaux li{
+	display: inline;
+	margin: 5px;
+}
+
+.reseaux a{
+	font-size: 20px;
+	color: rgba(0,0,0,0.3);
+}
+
+.reseaux a:hover{
+	color: black;
+}
